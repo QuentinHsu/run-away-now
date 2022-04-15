@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  // autocorrect 中英文文档/注释内容格式化配置
+  "autocorrect.formatOnSave": true,
+  "autocorrect.enable": true
+}
